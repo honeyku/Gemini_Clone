@@ -31,7 +31,7 @@ Click here 👉 https://gemini-clone-xi-six.vercel.app/
 
 📝 How to Run Locally
 
-git clone https://github.com/your-username/gemini-clone.git
+git clone https://github.com/honeyku/Gemini_Clone.git
 
 cd gemini-clone
 
